@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CricBuzzPoc</string>
+    <string name="error_message">Please try again.</string>
+    <string name="drug_list_blank_message">Please add a medicine.</string>
+
+    <!--  Add Drug data screen string -->
+    <string name="drug_name">Drug Name</string>
+    <string name="drug_description">Drug Description</string>
+    <string name="drug_dosage">Drug Dosage</string>
+    <string name="time_of_alarm">Time of Reminder</string>
+    <string name="date_of_alarm">Date of Reminder</string>
+    <string name="save_btn">SAVE</string>
+
+    <!--  Drug Description screen string -->
+    <string name="med_name">Drug Name:</string>
+    <string name="description">Description:</string>
+    <string name="dosage">Dosage:</string>
+    <string name="med_intake">Med. Intake</string>
+    <string name="med_missed">Med. Missed</string>
+
+    <!--Drug List Screen  -->
+    <string name="drug_intake_time">Intake Time:</string>
+
+    <!--Report List Screen  -->
+    <string name="drug_intake_count">Intake Count:</string>
+    <string name="drug_missed_count">Missed Count:</string>
+    <string name="list_of_dates">List Of Dates:</string>
+
+    <string-array name="interval">
+        <item>Every Day</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+
+    <string-array name="unit">
+        <item>Capsule(s)</item>
+        <item>Ampoule(s)</item>
+        <item>Drop(s)</item>
+        <item>Gram(s)</item>
+        <item>Injection(s)</item>
+        <item>Milligram(s)</item>
+        <item>Piece(s)</item>
+        <item>Pill(s)</item>
+        <item>Puff(s)</item>
+        <item>Suppository(s)</item>
+        <item>Unit(s)</item>
+    </string-array>
+</resources>

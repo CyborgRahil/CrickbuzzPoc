@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_drug_intake_report"
+        android:title="Drug Intake Report"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_drug_missed_report"
+        android:title="Drug Missed Report"
+        app:showAsAction="never" />
+</menu>
